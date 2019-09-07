@@ -1,0 +1,4 @@
+total 2
+-rw-r--r-- 1 ravim 1049089 111 Sep  6 21:32 f1.txt
+-rw-r--r-- 1 ravim 1049089   0 Sep  6 21:33 f2.txt
+-rw-r--r-- 1 ravim 1049089  12 Sep  6 21:31 README.md
